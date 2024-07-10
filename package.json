@@ -10,9 +10,12 @@
     "format": "npx prettier --write src/**/*.{js,jsx,ts,tsx,json,css,scss,md}"
   },
   "dependencies": {
+    "@radix-ui/react-label": "^2.1.0",
     "@radix-ui/react-slot": "^1.0.2",
     "@yukiniro/react-github-corners": "^1.0.3",
     "class-variance-authority": "^0.7.0",
+    "dcraw": "^1.0.3",
+    "file-to-any": "^1.2.0",
     "lucide-react": "^0.301.0",
     "next": "14.0.4",
     "react": "^18",
